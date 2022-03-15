@@ -1,7 +1,7 @@
 # Relação entre desempenho escolar e nível socioeconômico
 
 ## Objetivo
-Investigar a relação entre o desempenho escolar e o nível socioeconômico das escolas da rede estadual de ensino do estado de São Paulo, utilizando um modelo OLS simples univariado.
+Investigar a relação entre o desempenho escolar e o nível socioeconômico das escolas da rede estadual de ensino do estado de São Paulo, regredindo os dados com um modelo OLS simples univariado, e utilizando a linguagem R.
 
 ## Dados
 Para este trabalho foram utilizados dados referentes ao indicador IDESP de desempenho escolar dos estudantes do ensino médio e o índice de nível socioeconômico, INSE, das escolas do estado de São Paulo. As duas bases de dados foram retiradas do site basedosdados.
